@@ -157,7 +157,7 @@ Con split alcune righe venivano sbagliate perché le virgole facevano sbaliare m
 
 RISPOSTA TASK 3
 
-i risultati sono sbagliati perché split tralasciava alcune righe mentre csv le include
+Il risultato non cambia dato che in realtà la differenza tra csv reader e split è qualitativa perché questo metodo non faceva cambiare il numero di righe ma mandava a capo le parole spezzandole a metà con all'interno delle virgole
 
 RISPOSTA TASK 5
 
